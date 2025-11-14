@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects using AI in toxicology and laboratory work
 - 📫 How to reach me: julia.anna.matyjasiak@vub.be
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I own a 7 hour salsa playlist on Spotify
+- ⚡ Fun fact: I own a 9 hour salsa playlist on Spotify
 
 <!---
 juliamatyjasiakvub/juliamatyjasiakvub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
